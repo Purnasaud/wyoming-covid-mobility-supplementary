@@ -1,0 +1,14 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Carbon_County,lag_days,2020-04-28,pos→neg,1,-1,-1.0,-1.0000000000000007
+Carbon_County,lag_days,2020-07-07,neg→pos,-1,1,23.0,12.238095238095246
+Carbon_County,lag_days,2020-08-14,pos→neg,1,-1,-1.0,-1.0000000000000007
+Carbon_County,lag_days,2020-09-29,neg→pos,-1,1,5.0,-0.7619047619047623
+Carbon_County,lag_days,2020-10-09,pos→neg,1,-1,-1.0,-0.7619047619047625
+Carbon_County,lag_days,2020-10-28,neg→pos,-1,1,1.0,1.3095238095238104
+Carbon_County,lag_days,2020-11-10,pos→neg,1,-1,-1.0,-1.0000000000000007
+Carbon_County,lag_days,2021-01-31,neg→pos,-1,1,10.5,10.309523809523817
+Carbon_County,lag_days,2021-05-09,pos→neg,1,-1,-1.0,-1.0000000000000007
+Carbon_County,lag_days,2021-05-20,neg→pos,-1,1,13.5,13.50000000000001
+Carbon_County,lag_days,2021-08-19,pos→neg,1,-1,-1.0,-1.0000000000000007
+Carbon_County,lag_days,2021-09-14,neg→pos,-1,1,9.0,9.000000000000007
+Carbon_County,lag_days,2021-11-15,pos→neg,1,-1,-1.0,-1.0000000000000007

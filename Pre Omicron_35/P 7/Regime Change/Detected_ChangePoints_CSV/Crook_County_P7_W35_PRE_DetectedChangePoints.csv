@@ -1,0 +1,11 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Crook_County,lag_days,2020-07-16,neg→pos,-1,1,10.0,1.6190476190476202
+Crook_County,lag_days,2020-07-30,pos→neg,1,-1,-1.0,-1.0000000000000007
+Crook_County,lag_days,2021-01-30,neg→pos,-1,1,12.0,2.9523809523809557
+Crook_County,lag_days,2021-02-12,pos→neg,1,-1,-1.0,-0.7142857142857149
+Crook_County,lag_days,2021-02-19,neg→pos,-1,1,2.0,2.0952380952380967
+Crook_County,lag_days,2021-02-27,pos→neg,1,-1,-1.0,-1.0000000000000007
+Crook_County,lag_days,2021-05-11,neg→pos,-1,1,1.0,-1.0952380952380958
+Crook_County,lag_days,2021-05-30,pos→neg,1,-1,-1.0,-1.0000000000000007
+Crook_County,lag_days,2021-06-13,neg→pos,-1,1,11.0,6.523809523809529
+Crook_County,lag_days,2021-06-26,pos→neg,1,-1,-1.0,-1.0000000000000007

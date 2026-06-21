@@ -1,0 +1,9 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Converse_County,lag_days,2020-05-23,pos→neg,1,-1,-1.0,-1.0000000000000007
+Converse_County,lag_days,2020-10-02,neg→pos,-1,1,13.0,8.047619047619055
+Converse_County,lag_days,2020-11-13,pos→neg,1,-1,-1.0,-1.0000000000000007
+Converse_County,lag_days,2021-02-06,neg→pos,-1,1,1.0,1.404761904761906
+Converse_County,lag_days,2021-02-13,pos→neg,1,-1,-1.0,-1.0000000000000007
+Converse_County,lag_days,2021-05-04,neg→pos,-1,1,13.0,8.047619047619055
+Converse_County,lag_days,2021-06-11,pos→neg,1,-1,-1.0,-1.0000000000000007
+Converse_County,lag_days,2021-10-08,neg→pos,-1,1,10.0,6.4047619047619095

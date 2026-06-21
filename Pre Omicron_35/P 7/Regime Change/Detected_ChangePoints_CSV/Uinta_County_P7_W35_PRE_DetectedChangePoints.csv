@@ -1,0 +1,10 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Uinta_County,lag_days,2020-03-13,pos→neg,1,-1,-1.0,-1.0000000000000007
+Uinta_County,lag_days,2021-01-08,neg→pos,-1,1,21.5,17.261904761904773
+Uinta_County,lag_days,2021-04-22,pos→neg,1,-1,-1.0,-1.0000000000000007
+Uinta_County,lag_days,2021-04-30,neg→pos,-1,1,10.0,10.000000000000007
+Uinta_County,lag_days,2021-06-01,pos→neg,1,-1,-1.0,-1.0000000000000007
+Uinta_County,lag_days,2021-06-20,neg→pos,-1,1,9.0,9.000000000000007
+Uinta_County,lag_days,2021-09-19,pos→neg,1,-1,-1.0,-1.0000000000000007
+Uinta_County,lag_days,2021-10-18,neg→pos,-1,1,5.0,-0.6428571428571432
+Uinta_County,lag_days,2021-10-26,pos→neg,1,-1,-1.0,-1.0476190476190483

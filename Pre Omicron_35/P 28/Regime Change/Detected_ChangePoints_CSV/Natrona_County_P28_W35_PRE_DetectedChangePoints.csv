@@ -1,0 +1,3 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Natrona_County,lag_days,2020-05-03,pos→neg,1,-1,-1.0,-1.0000000000000007
+Natrona_County,lag_days,2020-06-03,neg→pos,-1,1,4.5,4.5000000000000036

@@ -1,0 +1,7 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Laramie_County,lag_days,2020-07-05,pos→neg,1,-1,-1.0,-1.0000000000000007
+Laramie_County,lag_days,2020-09-20,neg→pos,-1,1,26.5,15.000000000000012
+Laramie_County,lag_days,2020-12-23,pos→neg,1,-1,-1.0,-1.0000000000000007
+Laramie_County,lag_days,2021-01-25,neg→pos,-1,1,6.0,6.000000000000005
+Laramie_County,lag_days,2021-06-13,pos→neg,1,-1,-1.0,-1.0000000000000007
+Laramie_County,lag_days,2021-08-03,neg→pos,-1,1,18.0,8.619047619047626

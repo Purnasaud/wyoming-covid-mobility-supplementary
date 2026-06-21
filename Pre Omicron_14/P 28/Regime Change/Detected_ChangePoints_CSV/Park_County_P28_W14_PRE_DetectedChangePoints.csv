@@ -1,0 +1,6 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Park_County,lag_days,2020-03-26,pos→neg,1,-1,-1.0,-1.0000000000000007
+Park_County,lag_days,2020-04-19,neg→pos,-1,1,3.0,3.0000000000000027
+Park_County,lag_days,2020-06-03,pos→neg,1,-1,-1.0,-0.9523809523809531
+Park_County,lag_days,2020-07-07,neg→pos,-1,1,13.0,8.047619047619055
+Park_County,lag_days,2020-11-10,pos→neg,1,-1,-1.0,-1.0000000000000007

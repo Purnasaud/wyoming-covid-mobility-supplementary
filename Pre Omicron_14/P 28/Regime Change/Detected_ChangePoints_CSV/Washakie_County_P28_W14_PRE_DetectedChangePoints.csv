@@ -1,0 +1,16 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Washakie_County,lag_days,2020-02-21,pos→neg,1,-1,-1.0,-0.8571428571428578
+Washakie_County,lag_days,2020-03-18,neg→pos,-1,1,13.0,8.047619047619055
+Washakie_County,lag_days,2020-04-08,pos→neg,1,-1,-1.0,-0.6666666666666672
+Washakie_County,lag_days,2020-05-21,neg→pos,-1,1,9.0,4.523809523809527
+Washakie_County,lag_days,2020-06-16,pos→neg,1,-1,-1.0,-0.6666666666666672
+Washakie_County,lag_days,2020-06-22,neg→pos,-1,1,1.0,5.551115123125783e-17
+Washakie_County,lag_days,2020-06-26,pos→neg,1,-1,-1.0,-0.6666666666666672
+Washakie_County,lag_days,2020-07-11,neg→pos,-1,1,0.5,0.6428571428571432
+Washakie_County,lag_days,2020-07-22,pos→neg,1,-1,-1.0,-1.0000000000000007
+Washakie_County,lag_days,2020-12-08,neg→pos,-1,1,2.0,1.6904761904761916
+Washakie_County,lag_days,2021-03-17,pos→neg,1,-1,-1.0,-1.0000000000000007
+Washakie_County,lag_days,2021-04-24,neg→pos,-1,1,13.0,8.047619047619055
+Washakie_County,lag_days,2021-05-16,pos→neg,1,-1,-1.0,-1.0476190476190483
+Washakie_County,lag_days,2021-06-17,neg→pos,-1,1,13.0,8.047619047619055
+Washakie_County,lag_days,2021-10-30,pos→neg,1,-1,-1.0,-1.0000000000000007

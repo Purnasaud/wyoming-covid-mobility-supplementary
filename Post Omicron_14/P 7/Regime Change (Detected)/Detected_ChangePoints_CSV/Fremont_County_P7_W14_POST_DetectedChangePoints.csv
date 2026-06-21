@@ -1,0 +1,8 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Fremont_County,lag_days,2022-02-24,neg→pos,-1,1,13.0,8.047619047619055
+Fremont_County,lag_days,2022-04-10,pos→neg,1,-1,-1.0,-1.0000000000000007
+Fremont_County,lag_days,2022-04-22,neg→pos,-1,1,2.0,2.0000000000000013
+Fremont_County,lag_days,2022-05-22,pos→neg,1,-1,-1.0,-0.9523809523809531
+Fremont_County,lag_days,2022-07-02,neg→pos,-1,1,13.0,8.047619047619055
+Fremont_County,lag_days,2023-01-24,pos→neg,1,-1,-1.0,-0.9047619047619054
+Fremont_County,lag_days,2023-02-28,neg→pos,-1,1,1.0,1.095238095238096

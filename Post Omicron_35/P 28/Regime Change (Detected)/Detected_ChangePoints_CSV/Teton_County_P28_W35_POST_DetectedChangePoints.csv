@@ -1,0 +1,7 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Teton_County,lag_days,2022-02-01,neg→pos,-1,1,3.5,3.5000000000000027
+Teton_County,lag_days,2022-04-15,pos→neg,1,-1,-1.0,-1.0000000000000007
+Teton_County,lag_days,2022-04-23,neg→pos,-1,1,14.0,14.00000000000001
+Teton_County,lag_days,2022-06-02,pos→neg,1,-1,-1.0,-1.095238095238096
+Teton_County,lag_days,2022-06-07,neg→pos,-1,1,11.0,11.000000000000007
+Teton_County,lag_days,2022-07-08,pos→neg,1,-1,-1.0,-1.0000000000000007

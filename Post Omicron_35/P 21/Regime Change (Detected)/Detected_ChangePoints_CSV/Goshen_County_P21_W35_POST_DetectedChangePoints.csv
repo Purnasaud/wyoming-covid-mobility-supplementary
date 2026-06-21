@@ -1,0 +1,4 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Goshen_County,lag_days,2022-10-23,pos→neg,1,-1,-1.0,-1.0000000000000007
+Goshen_County,lag_days,2022-12-02,neg→pos,-1,1,5.0,1.2857142857142865
+Goshen_County,lag_days,2022-12-10,pos→neg,1,-1,-1.0,-1.0000000000000007

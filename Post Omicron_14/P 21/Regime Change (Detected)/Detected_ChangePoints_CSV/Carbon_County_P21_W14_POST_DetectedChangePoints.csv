@@ -1,0 +1,5 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Carbon_County,lag_days,2022-03-04,neg→pos,-1,1,13.0,8.047619047619055
+Carbon_County,lag_days,2022-07-26,pos→neg,1,-1,-1.0,-1.0000000000000007
+Carbon_County,lag_days,2022-11-09,neg→pos,-1,1,13.0,8.14285714285715
+Carbon_County,lag_days,2022-12-08,pos→neg,1,-1,-1.0,-1.0000000000000007

@@ -1,0 +1,14 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Sublette_County,lag_days,2020-02-16,pos→neg,1,-1,-1.0,-0.7142857142857149
+Sublette_County,lag_days,2020-05-24,neg→pos,-1,1,8.0,0.0
+Sublette_County,lag_days,2020-06-11,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sublette_County,lag_days,2020-08-22,neg→pos,-1,1,33.0,20.238095238095255
+Sublette_County,lag_days,2020-12-07,pos→neg,1,-1,-1.0,-1.0476190476190483
+Sublette_County,lag_days,2020-12-12,neg→pos,-1,1,2.5,1.904761904761906
+Sublette_County,lag_days,2020-12-31,pos→neg,1,-1,-1.0,-0.5714285714285718
+Sublette_County,lag_days,2021-01-12,neg→pos,-1,1,13.0,13.00000000000001
+Sublette_County,lag_days,2021-02-23,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sublette_County,lag_days,2021-05-20,neg→pos,-1,1,21.0,10.571428571428578
+Sublette_County,lag_days,2021-07-29,pos→neg,1,-1,-1.0,-2.8571428571428594
+Sublette_County,lag_days,2021-08-01,neg→pos,-1,1,15.5,15.452380952380963
+Sublette_County,lag_days,2021-10-10,pos→neg,1,-1,-1.0,-1.0000000000000007

@@ -1,0 +1,14 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Hot_Springs_County,lag_days,2022-01-03,neg→pos,-1,1,4.5,4.880952380952385
+Hot_Springs_County,lag_days,2022-01-30,pos→neg,1,-1,-1.0,-1.0000000000000007
+Hot_Springs_County,lag_days,2022-03-03,neg→pos,-1,1,6.0,6.047619047619053
+Hot_Springs_County,lag_days,2022-03-22,pos→neg,1,-1,-1.0,-0.9047619047619054
+Hot_Springs_County,lag_days,2022-03-28,neg→pos,-1,1,4.5,4.5000000000000036
+Hot_Springs_County,lag_days,2022-05-01,pos→neg,1,-1,-1.0,-1.0000000000000007
+Hot_Springs_County,lag_days,2022-07-18,neg→pos,-1,1,13.0,8.047619047619055
+Hot_Springs_County,lag_days,2022-08-17,pos→neg,1,-1,-1.0,-1.0476190476190483
+Hot_Springs_County,lag_days,2022-08-24,neg→pos,-1,1,1.5,1.5000000000000013
+Hot_Springs_County,lag_days,2022-09-25,pos→neg,1,-1,-1.0,-1.0476190476190483
+Hot_Springs_County,lag_days,2022-10-26,neg→pos,-1,1,2.0,0.6666666666666672
+Hot_Springs_County,lag_days,2023-01-11,pos→neg,1,-1,-1.0,-1.0000000000000007
+Hot_Springs_County,lag_days,2023-02-08,neg→pos,-1,1,13.0,8.047619047619055

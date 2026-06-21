@@ -1,0 +1,4 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Lincoln_County,lag_days,2022-08-30,pos→neg,1,-1,-1.0,-1.0000000000000007
+Lincoln_County,lag_days,2022-09-19,neg→pos,-1,1,3.0,2.904761904761907
+Lincoln_County,lag_days,2023-01-23,pos→neg,1,-1,-1.0,-0.6666666666666672

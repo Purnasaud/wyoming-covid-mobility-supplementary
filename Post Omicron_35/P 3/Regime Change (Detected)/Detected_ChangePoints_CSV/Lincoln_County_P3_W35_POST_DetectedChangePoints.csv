@@ -1,0 +1,11 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Lincoln_County,lag_days,2022-01-03,pos→neg,1,-1,-1.0,-1.0000000000000007
+Lincoln_County,lag_days,2022-03-04,neg→pos,-1,1,5.0,-2.4285714285714297
+Lincoln_County,lag_days,2022-03-16,pos→neg,1,-1,-1.0,-1.0000000000000007
+Lincoln_County,lag_days,2022-04-27,neg→pos,-1,1,19.0,9.857142857142865
+Lincoln_County,lag_days,2022-09-20,pos→neg,1,-1,-1.0,-1.0000000000000007
+Lincoln_County,lag_days,2022-10-11,neg→pos,-1,1,2.5,3.404761904761907
+Lincoln_County,lag_days,2022-11-21,pos→neg,1,-1,-1.0,-1.0000000000000007
+Lincoln_County,lag_days,2022-12-06,neg→pos,-1,1,1.0,1.0476190476190483
+Lincoln_County,lag_days,2022-12-27,pos→neg,1,-1,-1.0,-1.0000000000000007
+Lincoln_County,lag_days,2023-02-08,neg→pos,-1,1,15.0,5.880952380952385

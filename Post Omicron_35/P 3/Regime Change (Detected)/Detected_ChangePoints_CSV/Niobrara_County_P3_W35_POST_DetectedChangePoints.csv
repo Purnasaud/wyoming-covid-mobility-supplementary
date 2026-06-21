@@ -1,0 +1,11 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Niobrara_County,lag_days,2022-01-09,pos→neg,1,-1,-1.0,-1.0000000000000007
+Niobrara_County,lag_days,2022-02-21,neg→pos,-1,1,25.0,15.476190476190487
+Niobrara_County,lag_days,2022-03-29,pos→neg,1,-1,-1.0,-1.0000000000000007
+Niobrara_County,lag_days,2022-05-28,neg→pos,-1,1,6.0,-1.2380952380952386
+Niobrara_County,lag_days,2022-06-04,pos→neg,1,-1,-1.0,-1.0000000000000007
+Niobrara_County,lag_days,2022-07-12,neg→pos,-1,1,14.5,14.50000000000001
+Niobrara_County,lag_days,2022-09-14,pos→neg,1,-1,-1.0,-1.0000000000000007
+Niobrara_County,lag_days,2022-11-05,neg→pos,-1,1,5.5,5.5000000000000036
+Niobrara_County,lag_days,2022-11-21,pos→neg,1,-1,-1.0,-1.0000000000000007
+Niobrara_County,lag_days,2022-11-30,neg→pos,-1,1,6.0,4.285714285714289

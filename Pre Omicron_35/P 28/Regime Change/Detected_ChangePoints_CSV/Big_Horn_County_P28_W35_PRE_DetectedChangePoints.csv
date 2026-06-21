@@ -1,0 +1,9 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Big_Horn_County,lag_days,2020-03-05,pos→neg,1,-1,-1.0,-1.0000000000000007
+Big_Horn_County,lag_days,2020-03-21,neg→pos,-1,1,2.0,-0.4761904761904765
+Big_Horn_County,lag_days,2020-03-27,pos→neg,1,-1,-1.0,-1.0000000000000007
+Big_Horn_County,lag_days,2020-12-30,neg→pos,-1,1,2.5,2.0952380952380967
+Big_Horn_County,lag_days,2021-01-05,pos→neg,1,-1,-1.0,-1.0000000000000007
+Big_Horn_County,lag_days,2021-03-11,neg→pos,-1,1,6.0,5.904761904761909
+Big_Horn_County,lag_days,2021-05-02,pos→neg,1,-1,-1.0,-1.0000000000000007
+Big_Horn_County,lag_days,2021-09-25,neg→pos,-1,1,4.0,0.0

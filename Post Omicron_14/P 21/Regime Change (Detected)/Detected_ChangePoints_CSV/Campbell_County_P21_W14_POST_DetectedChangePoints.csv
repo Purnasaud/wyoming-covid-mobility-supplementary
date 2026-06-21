@@ -1,0 +1,6 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Campbell_County,lag_days,2022-03-08,neg→pos,-1,1,13.0,8.047619047619055
+Campbell_County,lag_days,2022-04-03,pos→neg,1,-1,-1.0,-1.0000000000000007
+Campbell_County,lag_days,2022-05-22,neg→pos,-1,1,13.0,8.047619047619055
+Campbell_County,lag_days,2022-08-25,pos→neg,1,-1,-1.0,-1.0000000000000007
+Campbell_County,lag_days,2023-02-10,neg→pos,-1,1,0.5,0.40476190476190504

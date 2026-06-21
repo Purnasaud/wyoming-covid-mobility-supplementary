@@ -1,0 +1,9 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Sheridan_County,lag_days,2020-05-12,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sheridan_County,lag_days,2020-05-23,neg→pos,-1,1,2.5,2.5000000000000018
+Sheridan_County,lag_days,2020-07-30,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sheridan_County,lag_days,2020-09-24,neg→pos,-1,1,13.0,8.047619047619055
+Sheridan_County,lag_days,2020-12-25,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sheridan_County,lag_days,2021-03-05,neg→pos,-1,1,7.0,3.190476190476193
+Sheridan_County,lag_days,2021-08-21,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sheridan_County,lag_days,2021-10-20,neg→pos,-1,1,13.0,8.047619047619055

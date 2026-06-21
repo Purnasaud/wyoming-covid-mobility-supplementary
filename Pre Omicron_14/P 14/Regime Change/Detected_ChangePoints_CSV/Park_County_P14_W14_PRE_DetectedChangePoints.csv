@@ -1,0 +1,11 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Park_County,lag_days,2020-02-17,pos→neg,1,-1,-1.0,-1.0000000000000007
+Park_County,lag_days,2020-03-18,neg→pos,-1,1,4.0,4.000000000000003
+Park_County,lag_days,2020-06-14,pos→neg,1,-1,-1.0,-1.0000000000000007
+Park_County,lag_days,2020-07-01,neg→pos,-1,1,11.0,6.666666666666671
+Park_County,lag_days,2020-07-14,pos→neg,1,-1,-1.0,-1.0000000000000007
+Park_County,lag_days,2020-10-03,neg→pos,-1,1,13.0,8.047619047619055
+Park_County,lag_days,2020-11-01,pos→neg,1,-1,-1.0,-1.0000000000000007
+Park_County,lag_days,2021-02-27,neg→pos,-1,1,13.0,8.047619047619055
+Park_County,lag_days,2021-10-21,pos→neg,1,-1,-1.0,-1.0000000000000007
+Park_County,lag_days,2021-11-28,neg→pos,-1,1,13.0,8.14285714285715

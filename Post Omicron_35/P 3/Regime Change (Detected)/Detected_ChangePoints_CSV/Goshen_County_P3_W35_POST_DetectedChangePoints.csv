@@ -1,0 +1,11 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Goshen_County,lag_days,2022-01-03,pos→neg,1,-1,-1.0,-0.9523809523809531
+Goshen_County,lag_days,2022-02-03,neg→pos,-1,1,2.5,2.595238095238097
+Goshen_County,lag_days,2022-05-31,pos→neg,1,-1,-1.0,-1.0000000000000007
+Goshen_County,lag_days,2022-07-01,neg→pos,-1,1,6.0,1.3809523809523823
+Goshen_County,lag_days,2022-07-11,pos→neg,1,-1,-1.0,-1.0000000000000007
+Goshen_County,lag_days,2022-08-05,neg→pos,-1,1,14.0,7.095238095238101
+Goshen_County,lag_days,2022-10-07,pos→neg,1,-1,-1.0,-1.0000000000000007
+Goshen_County,lag_days,2022-12-07,neg→pos,-1,1,13.0,3.6666666666666696
+Goshen_County,lag_days,2022-12-29,pos→neg,1,-1,-1.0,-1.0000000000000007
+Goshen_County,lag_days,2023-02-07,neg→pos,-1,1,9.5,9.500000000000007

@@ -1,0 +1,5 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Big_Horn_County,lag_days,2022-01-07,neg→pos,-1,1,5.0,5.071428571428575
+Big_Horn_County,lag_days,2022-04-26,pos→neg,1,-1,-1.0,-1.0000000000000007
+Big_Horn_County,lag_days,2022-09-10,neg→pos,-1,1,13.0,8.047619047619055
+Big_Horn_County,lag_days,2023-02-12,pos→neg,1,-1,-1.0,-1.0000000000000007

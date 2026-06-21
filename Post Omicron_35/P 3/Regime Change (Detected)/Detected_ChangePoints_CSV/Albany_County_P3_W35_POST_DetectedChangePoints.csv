@@ -1,0 +1,9 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Albany_County,lag_days,2022-02-02,pos→neg,1,-1,-1.0,-0.6666666666666672
+Albany_County,lag_days,2022-06-25,neg→pos,-1,1,4.0,-3.142857142857145
+Albany_County,lag_days,2022-07-02,pos→neg,1,-1,-1.0,-1.0000000000000007
+Albany_County,lag_days,2022-08-06,neg→pos,-1,1,1.0,0.7619047619047624
+Albany_County,lag_days,2023-01-11,pos→neg,1,-1,-1.0,-1.0000000000000007
+Albany_County,lag_days,2023-02-18,neg→pos,-1,1,5.0,1.8571428571428588
+Albany_County,lag_days,2023-02-24,pos→neg,1,-1,-1.0,-1.0000000000000007
+Albany_County,lag_days,2023-02-28,neg→pos,-1,1,2.0,2.0000000000000013

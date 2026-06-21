@@ -1,0 +1,15 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Sweetwater_County,lag_days,2020-04-04,neg→pos,-1,1,2.0,-0.2857142857142858
+Sweetwater_County,lag_days,2020-04-15,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sweetwater_County,lag_days,2020-11-10,neg→pos,-1,1,6.0,2.0952380952380976
+Sweetwater_County,lag_days,2020-12-30,pos→neg,1,-1,-1.0,-0.8095238095238101
+Sweetwater_County,lag_days,2021-01-02,neg→pos,-1,1,1.5,1.261904761904763
+Sweetwater_County,lag_days,2021-01-13,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sweetwater_County,lag_days,2021-03-06,neg→pos,-1,1,13.0,8.047619047619055
+Sweetwater_County,lag_days,2021-03-25,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sweetwater_County,lag_days,2021-04-06,neg→pos,-1,1,1.0,0.9047619047619054
+Sweetwater_County,lag_days,2021-04-25,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sweetwater_County,lag_days,2021-05-31,neg→pos,-1,1,3.0,1.3333333333333346
+Sweetwater_County,lag_days,2021-06-06,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sweetwater_County,lag_days,2021-06-15,neg→pos,-1,1,3.5,3.5000000000000027
+Sweetwater_County,lag_days,2021-09-07,pos→neg,1,-1,-1.0,-1.0000000000000007

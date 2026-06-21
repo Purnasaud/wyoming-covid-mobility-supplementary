@@ -1,0 +1,14 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Teton_County,lag_days,2020-03-12,pos→neg,1,-1,-1.0,-1.0000000000000007
+Teton_County,lag_days,2020-07-22,neg→pos,-1,1,30.0,17.142857142857157
+Teton_County,lag_days,2020-09-03,pos→neg,1,-1,-1.0,-1.0000000000000007
+Teton_County,lag_days,2020-12-03,neg→pos,-1,1,14.0,5.28571428571429
+Teton_County,lag_days,2020-12-20,pos→neg,1,-1,-1.0,-1.0000000000000007
+Teton_County,lag_days,2021-01-22,neg→pos,-1,1,9.0,6.119047619047624
+Teton_County,lag_days,2021-02-25,pos→neg,1,-1,-1.0,-1.0000000000000007
+Teton_County,lag_days,2021-03-11,neg→pos,-1,1,4.0,0.6666666666666671
+Teton_County,lag_days,2021-06-04,pos→neg,1,-1,-1.0,-1.0000000000000007
+Teton_County,lag_days,2021-09-02,neg→pos,-1,1,7.5,5.023809523809527
+Teton_County,lag_days,2021-10-14,pos→neg,1,-1,-1.0,-1.0476190476190483
+Teton_County,lag_days,2021-12-02,neg→pos,-1,1,2.0,-3.9047619047619073
+Teton_County,lag_days,2021-12-07,pos→neg,1,-1,-1.0,-1.0000000000000007

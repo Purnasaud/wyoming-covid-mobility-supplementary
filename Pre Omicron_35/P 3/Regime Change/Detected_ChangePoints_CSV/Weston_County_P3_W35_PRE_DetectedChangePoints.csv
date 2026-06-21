@@ -1,0 +1,9 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Weston_County,lag_days,2020-07-26,pos→neg,1,-1,-1.0,-1.0000000000000007
+Weston_County,lag_days,2020-11-10,neg→pos,-1,1,7.5,7.309523809523815
+Weston_County,lag_days,2020-12-08,pos→neg,1,-1,-1.0,-1.0000000000000007
+Weston_County,lag_days,2021-03-12,neg→pos,-1,1,15.0,7.857142857142863
+Weston_County,lag_days,2021-04-04,pos→neg,1,-1,-1.0,-1.095238095238096
+Weston_County,lag_days,2021-04-11,neg→pos,-1,1,7.0,7.000000000000005
+Weston_County,lag_days,2021-05-14,pos→neg,1,-1,-1.0,-1.0000000000000007
+Weston_County,lag_days,2021-10-20,neg→pos,-1,1,27.0,15.80952380952382

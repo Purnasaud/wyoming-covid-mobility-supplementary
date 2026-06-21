@@ -1,0 +1,7 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Park_County,lag_days,2022-02-18,neg→pos,-1,1,2.0,-5.190476190476194
+Park_County,lag_days,2022-02-28,pos→neg,1,-1,-1.0,-1.0476190476190483
+Park_County,lag_days,2022-08-25,neg→pos,-1,1,6.0,3.3333333333333366
+Park_County,lag_days,2023-01-10,pos→neg,1,-1,-1.0,-1.0000000000000007
+Park_County,lag_days,2023-02-17,neg→pos,-1,1,4.0,2.4285714285714306
+Park_County,lag_days,2023-02-23,pos→neg,1,-1,-1.0,-1.0000000000000007

@@ -1,0 +1,12 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Johnson_County,lag_days,2020-05-04,neg→pos,-1,1,13.5,13.50000000000001
+Johnson_County,lag_days,2020-06-27,pos→neg,1,-1,-1.0,-1.0000000000000007
+Johnson_County,lag_days,2021-01-05,neg→pos,-1,1,15.0,10.333333333333341
+Johnson_County,lag_days,2021-02-12,pos→neg,1,-1,-1.0,-1.0000000000000007
+Johnson_County,lag_days,2021-03-02,neg→pos,-1,1,2.5,2.2619047619047636
+Johnson_County,lag_days,2021-03-25,pos→neg,1,-1,-1.0,-1.0000000000000007
+Johnson_County,lag_days,2021-06-10,neg→pos,-1,1,6.0,3.9523809523809557
+Johnson_County,lag_days,2021-06-25,pos→neg,1,-1,-1.0,-1.0000000000000007
+Johnson_County,lag_days,2021-07-23,neg→pos,-1,1,13.0,8.000000000000005
+Johnson_County,lag_days,2021-08-08,pos→neg,1,-1,-1.0,-0.9047619047619054
+Johnson_County,lag_days,2021-12-07,neg→pos,-1,1,2.0,0.7619047619047625

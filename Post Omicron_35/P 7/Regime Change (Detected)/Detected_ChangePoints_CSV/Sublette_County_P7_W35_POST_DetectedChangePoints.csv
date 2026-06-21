@@ -1,0 +1,6 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Sublette_County,lag_days,2022-03-17,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sublette_County,lag_days,2022-07-01,neg→pos,-1,1,5.0,2.1428571428571446
+Sublette_County,lag_days,2022-07-11,pos→neg,1,-1,-1.0,-1.0000000000000007
+Sublette_County,lag_days,2022-10-03,neg→pos,-1,1,27.0,16.2857142857143
+Sublette_County,lag_days,2022-12-29,pos→neg,1,-1,-1.0,-1.0000000000000007

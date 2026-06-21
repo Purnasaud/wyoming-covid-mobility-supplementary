@@ -1,0 +1,7 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Platte_County,lag_days,2022-02-27,neg→pos,-1,1,0.5,0.8095238095238102
+Platte_County,lag_days,2022-03-06,pos→neg,1,-1,-1.0,-1.1428571428571437
+Platte_County,lag_days,2022-03-10,neg→pos,-1,1,0.5,0.2619047619047621
+Platte_County,lag_days,2022-04-28,pos→neg,1,-1,-1.0,-1.0000000000000007
+Platte_County,lag_days,2022-05-19,neg→pos,-1,1,0.5,0.5000000000000003
+Platte_County,lag_days,2022-10-25,pos→neg,1,-1,-1.0,-1.095238095238096

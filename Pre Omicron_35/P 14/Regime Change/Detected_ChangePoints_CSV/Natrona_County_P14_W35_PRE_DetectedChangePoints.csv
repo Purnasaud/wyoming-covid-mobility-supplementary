@@ -1,0 +1,13 @@
+county,source_lag_column,cp_date,direction,from_sign,to_sign,lag_at_cp_raw,lag_at_cp_smoothed
+Natrona_County,lag_days,2020-07-25,pos→neg,1,-1,-1.0,-1.0000000000000007
+Natrona_County,lag_days,2020-09-08,neg→pos,-1,1,16.0,6.5714285714285765
+Natrona_County,lag_days,2020-09-28,pos→neg,1,-1,-1.0,-1.0000000000000007
+Natrona_County,lag_days,2020-10-04,neg→pos,-1,1,14.5,14.404761904761916
+Natrona_County,lag_days,2020-12-01,pos→neg,1,-1,-1.0,-1.0000000000000007
+Natrona_County,lag_days,2020-12-11,neg→pos,-1,1,2.0,1.8333333333333346
+Natrona_County,lag_days,2021-04-17,pos→neg,1,-1,-1.0,-1.0000000000000007
+Natrona_County,lag_days,2021-04-26,neg→pos,-1,1,2.0,2.0952380952380967
+Natrona_County,lag_days,2021-05-18,pos→neg,1,-1,-1.0,-1.0000000000000007
+Natrona_County,lag_days,2021-07-21,neg→pos,-1,1,34.0,21.047619047619065
+Natrona_County,lag_days,2021-11-12,pos→neg,1,-1,-1.0,-0.6666666666666672
+Natrona_County,lag_days,2021-11-21,neg→pos,-1,1,8.0,7.952380952380958
